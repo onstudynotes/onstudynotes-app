@@ -1,0 +1,981 @@
+TAverage Calculator
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/PrecompiledHeaders/Average\ Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average\ Calculator-Prefix.pch.pch Average\ Calculator/Average\ Calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/SecondViewController.o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/AppDelegate.o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/FirstViewController.o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/MainViewController.o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/main.o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Average\ Calculator normal i386
+cCpResource Average\ Calculator/logo.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/logo.png
+cCpResource Average\ Calculator/line.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/line.png
+cCpResource Average\ Calculator/Calculator@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Calculator@2x.png
+cCopyStringsFile /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/en.lproj/InfoPlist.strings Average\ Calculator/en.lproj/InfoPlist.strings
+cCpResource Average\ Calculator/Calculator.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Calculator.png
+cCpResource Average\ Calculator/splasher.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/splasher.png
+cCpResource Average\ Calculator/icon@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/icon@2x.png
+cCpResource Average\ Calculator/ChartUp.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/ChartUp.png
+cCpResource Average\ Calculator/icon.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/icon.png
+cCpResource Average\ Calculator/Onstudynotes.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Onstudynotes.png
+cCompileStoryboard /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Base.lproj/Main.storyboard
+cCpResource Average\ Calculator/Chart_Up@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Chart_Up@2x.png
+cCpResource Average\ Calculator/Onstudynotes@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Onstudynotes@2x.png
+cCompileAssetCatalog /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Images.xcassets
+cProcessInfoPlistFile /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Info.plist /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Average\ Calculator-Info.plist
+cGenerateDSYMFile /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app.dSYM /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Average\ Calculator
+cTouch /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005281459300000000000003B5
+t1384203667
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005281459900000000000001A0
+t1384203673
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005281459A00000000005838D0
+t1384203674
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005281459A00000000005B82A0
+t1384203674
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005281459A0000000000445870
+t1384203674
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005281459A0000000000355050
+t1384203674
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005281459B00000000002F6810
+t1384203675
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005281459A000000000004B000
+t1384203674
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005281459B000000000088C680
+t1384203675
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005281459C0000000000037620
+t1384203676
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005281459C00000000004848F0
+t1384203676
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005281459C00000000001290B0
+t1384203676
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005281459E0000000001DB9910
+t1384203678
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000528145A800000000002B9F20
+t1384203688
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c00000000528145AD0000000000002338
+t1384203693
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c00000000528145AD000000000008D300
+t1384203693
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c00000000528145AD000000000038ACB0
+t1384203693
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c0000000052649E6F00000000000141F0
+t1382325871
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c00000000528145AD0000000000013500
+t1384203693
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000528145AD0000000000033BA0
+t1384203693
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000528145AD000000000001CFB0
+t1384203693
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000528145AD000000000001B2B0
+t1384203693
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c00000000528145AD00000000000632B0
+t1384203693
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000528145AD0000000000008880
+t1384203693
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000528145AD0000000000015080
+t1384203693
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000528145AD00000000000230E0
+t1384203693
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000528145AD000000000000E380
+t1384203693
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c00000000528145AD0000000000087200
+t1384203693
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c00000000528145AD00000000000171A0
+t1384203693
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000528145AD0000000000039C10
+t1384203693
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000528145AD000000000000B0B0
+t1384203693
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000528145AD0000000000167FE0
+t1384203693
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000528145AD00000000000106A0
+t1384203693
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000528145AD000000000001CE40
+t1384203693
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000528145AD0000000000071040
+t1384203693
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000528145AD0000000000067A10
+t1384203693
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000528145AD000000000001BAD0
+t1384203693
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c00000000528145AD0000000000088BA0
+t1384203693
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000528145E70000000000000AC9
+t1384203751
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c00000000528145E70000000000005004
+t1384203751
+s20484
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/AppDelegate.h
+c0000000052B2FC5E0000000000000125
+t1387461726
+s293
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/AppDelegate.m
+c0000000052B2FC5E00000000000007E7
+t1387461726
+s2023
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Average Calculator-Info.plist
+c0000000052B2FC5E000000000000058B
+t1387461726
+s1419
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Average Calculator-Prefix.pch
+c0000000052B2FC5E0000000000000158
+t1387461726
+s344
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Base.lproj/Main.storyboard
+c0000000052B8A9C3000000000000E83A
+t1387833795
+s59450
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Calculator.png
+c00000000520C05F8000000000000052A
+t1376519672
+s1322
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Calculator@2x.png
+c00000000520C125800000000000005F4
+t1376522840
+s1524
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/ChartUp.png
+c00000000520C05DA0000000000000514
+t1376519642
+s1300
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Chart_Up@2x.png
+c00000000520C122E0000000000000586
+t1376522798
+s1414
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/FirstViewController.h
+c0000000052B89BA900000000000003E5
+t1387830185
+s997
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/FirstViewController.m
+c0000000052B89C6C0000000000000E64
+t1387830380
+s3684
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Images.xcassets
+c0000000052B2FC5E00000000000000CC
+t1387461726
+s204
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/MainViewController.h
+c0000000052B8A5A600000000000000F0
+t1387832742
+s240
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/MainViewController.m
+c0000000052B8A5B500000000000002DC
+t1387832757
+s732
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Onstudynotes.png
+c0000000052B89A830000000000000A47
+t1387829891
+s2631
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Onstudynotes@2x.png
+c0000000052B89A7500000000000013C4
+t1387829877
+s5060
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/SecondViewController.h
+c0000000052B8803800000000000004E0
+t1387823160
+s1248
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/SecondViewController.m
+c0000000052B89D100000000000003A2A
+t1387830544
+s14890
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/en.lproj/InfoPlist.strings
+c0000000052B2FC5E000000000000002D
+t1387461726
+s45
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/icon.png
+c0000000052B8A0FE0000000000001E8A
+t1387831550
+s7818
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/icon@2x.png
+c0000000052B8A0040000000000005D41
+t1387831300
+s23873
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/line.png
+c0000000052B8A737000000000000040B
+t1387833143
+s1035
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/logo.png
+c0000000052B4A6C80000000000004B17
+t1387570888
+s19223
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/main.m
+c0000000052B2FC5E0000000000000161
+t1387461726
+s353
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/splasher.png
+c0000000052B8A0B4000000000000D07C
+t1387831476
+s53372
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/AppDelegate.o
+t1387461870
+s65332
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/Average Calculator.LinkFileList
+c0000000052B89EDD0000000000000471
+t1387831005
+s1137
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/FirstViewController.o
+t1387830381
+s75116
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/MainViewController.o
+t1387832757
+s42232
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/SecondViewController.o
+t1387831006
+s95320
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/main.o
+t1387461870
+s3756
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/assetcatalog_dependencies.txt
+t1387461873
+s595
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/assetcatalog_generated_info.plist
+t1387461873
+s525
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/PrecompiledHeaders/Average Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average Calculator-Prefix.pch.pch
+t1387461870
+s109720
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app
+t1387833744
+s680
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app.dSYM
+t1387832758
+s102
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Average Calculator
+t1387832757
+s58948
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Base.lproj/Main.storyboardc
+t1387833795
+s238
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Calculator.png
+t1387828404
+s1322
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Calculator@2x.png
+t1387828404
+s1524
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/ChartUp.png
+t1387828404
+s1300
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Chart_Up@2x.png
+t1387828404
+s1414
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Info.plist
+t1387461873
+s1156
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Onstudynotes.png
+t1387829932
+s2631
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Onstudynotes@2x.png
+t1387829932
+s5060
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/PkgInfo
+t1387461873
+s8
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/en.lproj/InfoPlist.strings
+t1387461871
+s42
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/icon.png
+t1387831691
+s7818
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/icon@2x.png
+t1387831691
+s23873
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/line.png
+t1387833406
+s1035
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/logo.png
+t1387570925
+s19223
+
+N/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/splasher.png
+t1387831691
+s53372
+
+N/usr/lib/libSystem.B.dylib
+c0000000052649E5F000000000000E6D0
+t1382325855
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000052649E6F0000000000012A00
+t1382325871
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052649E52000000000002E320
+t1382325842
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000052649E5F0000000000021860
+t1382325855
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052649E6E000000000001B620
+t1382325870
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000052649E6E00000000000BD920
+t1382325870
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000052649E6F00000000000141F0
+t1382325871
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052649E6E000000000000A120
+t1382325870
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000052649E6E000000000001D550
+t1382325870
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000052649E6D0000000000014EE0
+t1382325869
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052649E700000000000010380
+t1382325872
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052649E70000000000000C4C0
+t1382325872
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000052649E6F00000000000357A0
+t1382325871
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052649E6F000000000000C070
+t1382325871
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000052649E5F0000000000168C00
+t1382325855
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000052649E6E0000000000010630
+t1382325870
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000052649E70000000000001DF10
+t1382325872
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000052649E5F0000000000075B00
+t1382325855
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052649E5F000000000007CC70
+t1382325855
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000052649E5F00000000000766C0
+t1382325855
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000052649E6F0000000000044DC0
+t1382325871
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000052649E5F0000000000021FA0
+t1382325855
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000052649E6F000000000002D900
+t1382325871
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052649E6F000000000001E570
+t1382325871
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000052649E66000000000000CC70
+t1382325862
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052649E69000000000000C3F0
+t1382325865
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000052649E6F00000000000199F0
+t1382325871
+s104944
+
+CBuild AST from /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/AppDelegate.m
+r0
+
+CBuild AST from /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/FirstViewController.m
+r0
+
+CBuild AST from /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/MainViewController.m
+r0
+
+CBuild AST from /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/SecondViewController.m
+r0
+
+CBuild AST from /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb9163543e168b841^56d84443e168b841^---0#1#1#--18"Check dependencies36"76F02318-91D8-4385-9AD1-EB9F5C82A913-
+
+CCompileAssetCatalog /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Images.xcassets
+s409154671.987927
+e409154673.254823
+r1
+xCompileAssetCatalog
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Images.xcassets
+o2013-12-19 09:04:32.732 IBCocoaTouchImageCatalogTool[698:303] CFPreferences: user home directory at file:///Users/Alex/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/LaunchImage-700-568h@2x.png
+o/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Assets.car
+o/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"CompileAssetCatalog DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app Average\ Calculator/Images.xcassets148"CompileAssetCatalog DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app Average\ Calculator/Images.xcassets27fafc6f3463b841^793c41713463b841^-844"2013-12-19 09:04:32.732 IBCocoaTouchImageCatalogTool[698:303] CFPreferences: user home directory at file:///Users/Alex/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/LaunchImage-700-568h@2x.png/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Assets.car/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/Average%20Calculator/Images.xcassets/0000000000000000^1512"CompileAssetCatalog DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app Average\ Calculator/Images.xcassets    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Images.xcassets36"2121E063-411E-466F-A134-C7ADBF3A9907-
+bC128F2EA-A203-415A-BFFE-2147954F90EB
+
+CCompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/AppDelegate.o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s409154670.748541
+e409154670.879391
+r1
+xCompileC
+xDerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/AppDelegate.o
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/AppDelegate.m
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/AppDelegate.m270"CompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/AppDelegate.o Average\ Calculator/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera0c0bf6e3463b841^f71fe16e3463b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/Average%20Calculator/AppDelegate.m0000000000000000^4843"CompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/AppDelegate.o Average\ Calculator/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-generated-files.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-own-target-headers.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-all-target-headers.hmap -iquote /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-project-headers.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/DerivedSources/i386 -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/DerivedSources -F/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator -include /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/PrecompiledHeaders/Average\ Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average\ Calculator-Prefix.pch -MMD -MT dependencies -MF /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/AppDelegate.dia -c /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/AppDelegate.m -o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/AppDelegate.o36"53E0CE40-E018-4558-9507-164D1FB9781F-
+bC128F2EA-A203-415A-BFFE-2147954F90EB
+
+CCompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/FirstViewController.o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s409523181.877151
+e409523181.937632
+r1
+xCompileC
+xDerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/FirstViewController.o
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/FirstViewController.m
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/FirstViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/FirstViewController.m286"CompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/FirstViewController.o Average\ Calculator/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere2ace0edd368b841^7408f0edd368b841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/Average%20Calculator/FirstViewController.m0000000000000000^4891"CompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/FirstViewController.o Average\ Calculator/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-generated-files.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-own-target-headers.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-all-target-headers.hmap -iquote /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-project-headers.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/DerivedSources/i386 -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/DerivedSources -F/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator -include /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/PrecompiledHeaders/Average\ Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average\ Calculator-Prefix.pch -MMD -MT dependencies -MF /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/FirstViewController.d --serialize-diagnostics /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/FirstViewController.dia -c /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/FirstViewController.m -o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/FirstViewController.o36"22627CA9-76A7-4061-BBEA-1F002D2CE110-
+b5E1ACD3F-5F06-4106-B19F-CF0475996A59
+
+CCompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/MainViewController.o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s409525557.557515
+e409525557.637089
+r1
+xCompileC
+xDerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/MainViewController.o
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/MainViewController.m
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/MainViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/MainViewController.m284"CompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/MainViewController.o Average\ Calculator/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler31cf8e35dd68b841^3b1aa335dd68b841^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/Average%20Calculator/MainViewController.m0000000000000000^4885"CompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/MainViewController.o Average\ Calculator/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-generated-files.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-own-target-headers.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-all-target-headers.hmap -iquote /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-project-headers.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/DerivedSources/i386 -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/DerivedSources -F/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator -include /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/PrecompiledHeaders/Average\ Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average\ Calculator-Prefix.pch -MMD -MT dependencies -MF /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/MainViewController.dia -c /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/MainViewController.m -o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/MainViewController.o36"CFF97C3D-9116-475E-B0DB-DAD0FAB4398E-
+b3B5B3AA2-FB62-4B46-AA65-E4B0DFC48749
+
+CCompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/SecondViewController.o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s409523805.924719
+e409523806.003884
+r1
+xCompileC
+xDerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/SecondViewController.o
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/SecondViewController.m
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/SecondViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/SecondViewController.m288"CompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/SecondViewController.o Average\ Calculator/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb1deec5dd668b841^54ff005ed668b841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/Average%20Calculator/SecondViewController.m0000000000000000^4897"CompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/SecondViewController.o Average\ Calculator/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-generated-files.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-own-target-headers.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-all-target-headers.hmap -iquote /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-project-headers.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/DerivedSources/i386 -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/DerivedSources -F/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator -include /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/PrecompiledHeaders/Average\ Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average\ Calculator-Prefix.pch -MMD -MT dependencies -MF /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/SecondViewController.d --serialize-diagnostics /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/SecondViewController.dia -c /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/SecondViewController.m -o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/SecondViewController.o36"4681B27E-B27D-48BE-A289-E23A4776E3D6-
+b08087AAC-F8B6-459A-83F6-408A6C794DD1
+
+CCompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/main.o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s409154670.749218
+e409154670.867153
+r1
+xCompileC
+xDerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/main.o
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/main.m
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/main.m256"CompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/main.o Average\ Calculator/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8ae8bf6e3463b841^11fedd6e3463b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/Average%20Calculator/main.m0000000000000000^4801"CompileC DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/main.o Average\ Calculator/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-generated-files.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-own-target-headers.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-all-target-headers.hmap -iquote /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-project-headers.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/DerivedSources/i386 -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/DerivedSources -F/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator -include /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/PrecompiledHeaders/Average\ Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average\ Calculator-Prefix.pch -MMD -MT dependencies -MF /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/main.dia -c /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/main.m -o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/main.o36"B19833AE-931C-42E9-8932-DB9B80320EE2-
+bC128F2EA-A203-415A-BFFE-2147954F90EB
+
+CCompileStoryboard /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Base.lproj/Main.storyboard
+s409526595.272336
+e409526595.768262
+r1
+xCompileStoryboard
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CompileStoryboard Average\ Calculator/Base.lproj/Main.storyboard64"CompileStoryboard Average\ Calculator/Base.lproj/Main.storyboard2ec54543e168b841^00aec443e168b841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/Average%20Calculator/Base.lproj/Main.storyboard0000000000000000^997"CompileStoryboard Average\ Calculator/Base.lproj/Main.storyboard    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Base.lproj/Main.storyboardc /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Base.lproj/Main.storyboard36"C9E19436-4430-4234-9952-3904ADE09493-
+b3517A6D1-21A7-4609-B117-43A73C8E4D72
+
+CCopyStringsFile /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/en.lproj/InfoPlist.strings Average\ Calculator/en.lproj/InfoPlist.strings
+s409154671.987477
+e409154671.988623
+r1
+xCopyStringsFile
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/en.lproj/InfoPlist.strings
+xAverage Calculator/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy Average Calculator/en.lproj/InfoPlist.strings182"CopyStringsFile DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/en.lproj/InfoPlist.strings Average\ Calculator/en.lproj/InfoPlist.stringsbedbfc6f3463b841^2f17fd6f3463b841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/Average%20Calculator/en.lproj/InfoPlist.strings0000000000000000^765"CopyStringsFile DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/en.lproj/InfoPlist.strings Average\ Calculator/en.lproj/InfoPlist.strings    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/en.lproj -- Average\ Calculator/en.lproj/InfoPlist.strings36"34562CD3-1768-4DB6-84CD-90F853DD4F1A-
+bC128F2EA-A203-415A-BFFE-2147954F90EB
+
+CCpResource Average\ Calculator/Calculator.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Calculator.png
+s409521204.315632
+e409521204.400775
+r1
+xCpResource
+xAverage Calculator/Calculator.png
+xDerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Calculator.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Calculator.png153"CpResource Average\ Calculator/Calculator.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Calculator.png65e05034cc68b841^e3a66634cc68b841^---0#0#1#-19%DVTDocumentLocation2@187"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/DerivedData/Average%20Calculator/Build/Products/Debug-iphonesimulator/Average%20Calculator.app/Calculator.png003478a0ddffdf42^803"CpResource Average\ Calculator/Calculator.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Calculator.png    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Calculator.png /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app36"24F05F9E-2BDB-46FC-BC8A-9A6D4E179C7F-
+b2EA34A02-E605-48BE-81C7-C985B7057016
+
+CCpResource Average\ Calculator/Calculator@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Calculator@2x.png
+s409521204.315214
+e409521204.400735
+r1
+xCpResource
+xAverage Calculator/Calculator@2x.png
+xDerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Calculator@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Calculator@2x.png159"CpResource Average\ Calculator/Calculator@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Calculator@2x.pngd7c25034cc68b841^999c6634cc68b841^---0#0#1#-19%DVTDocumentLocation2@190"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/DerivedData/Average%20Calculator/Build/Products/Debug-iphonesimulator/Average%20Calculator.app/Calculator@2x.png003478a0ddffdf42^812"CpResource Average\ Calculator/Calculator@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Calculator@2x.png    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Calculator@2x.png /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app36"C395B0BC-C799-43EB-AC89-D22D5066755E-
+b2EA34A02-E605-48BE-81C7-C985B7057016
+
+CCpResource Average\ Calculator/ChartUp.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/ChartUp.png
+s409521204.315817
+e409521204.400778
+r1
+xCpResource
+xAverage Calculator/ChartUp.png
+xDerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/ChartUp.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/ChartUp.png147"CpResource Average\ Calculator/ChartUp.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/ChartUp.pngc4e95034cc68b841^83a16634cc68b841^---0#0#1#-19%DVTDocumentLocation2@184"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/DerivedData/Average%20Calculator/Build/Products/Debug-iphonesimulator/Average%20Calculator.app/ChartUp.png003478a0ddffdf42^794"CpResource Average\ Calculator/ChartUp.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/ChartUp.png    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/ChartUp.png /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app36"FD659579-D881-4946-B9BF-143FD2B29606-
+b2EA34A02-E605-48BE-81C7-C985B7057016
+
+CCpResource Average\ Calculator/Chart_Up@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Chart_Up@2x.png
+s409521204.316592
+e409521204.400719
+r1
+xCpResource
+xAverage Calculator/Chart_Up@2x.png
+xDerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Chart_Up@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Chart_Up@2x.png155"CpResource Average\ Calculator/Chart_Up@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Chart_Up@2x.pngb91a5134cc68b841^af976634cc68b841^---0#0#1#-19%DVTDocumentLocation2@188"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/DerivedData/Average%20Calculator/Build/Products/Debug-iphonesimulator/Average%20Calculator.app/Chart_Up@2x.png003478a0ddffdf42^806"CpResource Average\ Calculator/Chart_Up@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Chart_Up@2x.png    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Chart_Up@2x.png /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app36"93612FE1-E547-4F34-8300-6B905E4F0F66-
+b2EA34A02-E605-48BE-81C7-C985B7057016
+
+CCpResource Average\ Calculator/Onstudynotes.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Onstudynotes.png
+s409522732.337883
+e409522732.338897
+r1
+xCpResource
+xAverage Calculator/Onstudynotes.png
+xDerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Onstudynotes.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Onstudynotes.png157"CpResource Average\ Calculator/Onstudynotes.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Onstudynotes.png4b93562cd268b841^cff8562cd268b841^---0#0#1#-19%DVTDocumentLocation2@189"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/DerivedData/Average%20Calculator/Build/Products/Debug-iphonesimulator/Average%20Calculator.app/Onstudynotes.png003478a0ddffdf42^809"CpResource Average\ Calculator/Onstudynotes.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Onstudynotes.png    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Onstudynotes.png /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app36"9E0E4E6B-8171-47E5-86EA-B37D0EED6A1A-
+bEE82C7AE-463C-49D1-B657-BC6EF63BD09B
+
+CCpResource Average\ Calculator/Onstudynotes@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Onstudynotes@2x.png
+s409522732.338256
+e409522732.339039
+r1
+xCpResource
+xAverage Calculator/Onstudynotes@2x.png
+xDerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Onstudynotes@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Onstudynotes@2x.png163"CpResource Average\ Calculator/Onstudynotes@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Onstudynotes@2x.pngf8a9562cd268b841^e8fa562cd268b841^---0#0#1#-19%DVTDocumentLocation2@192"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/DerivedData/Average%20Calculator/Build/Products/Debug-iphonesimulator/Average%20Calculator.app/Onstudynotes@2x.png003478a0ddffdf42^818"CpResource Average\ Calculator/Onstudynotes@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Onstudynotes@2x.png    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Onstudynotes@2x.png /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app36"20095EA2-9792-4E82-BB6A-27CB7E33A351-
+bEE82C7AE-463C-49D1-B657-BC6EF63BD09B
+
+CCpResource Average\ Calculator/icon.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/icon.png
+s409524491.166779
+e409524491.167870
+r1
+xCpResource
+xAverage Calculator/icon.png
+xDerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/icon.png141"CpResource Average\ Calculator/icon.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/icon.png37c62a0bd968b841^ac3a2b0bd968b841^---0#0#1#-19%DVTDocumentLocation2@181"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/DerivedData/Average%20Calculator/Build/Products/Debug-iphonesimulator/Average%20Calculator.app/icon.png003478a0ddffdf42^785"CpResource Average\ Calculator/icon.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/icon.png    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/icon.png /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app36"6E0846B8-4EEC-47D6-87CD-4B7CB5792C72-
+bE05552A1-0C6A-4E35-A970-273BB907A0EA
+
+CCpResource Average\ Calculator/icon@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/icon@2x.png
+s409524491.166416
+e409524491.167895
+r1
+xCpResource
+xAverage Calculator/icon@2x.png
+xDerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/icon@2x.png147"CpResource Average\ Calculator/icon@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/icon@2x.png29ae2a0bd968b841^81402b0bd968b841^---0#0#1#-19%DVTDocumentLocation2@184"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/DerivedData/Average%20Calculator/Build/Products/Debug-iphonesimulator/Average%20Calculator.app/icon@2x.png003478a0ddffdf42^794"CpResource Average\ Calculator/icon@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/icon@2x.png    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/icon@2x.png /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app36"233D2B8C-FD15-4B78-B03B-606067FFBC98-
+bE05552A1-0C6A-4E35-A970-273BB907A0EA
+
+CCpResource Average\ Calculator/line.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/line.png
+s409526206.397024
+e409526206.398457
+r1
+xCpResource
+xAverage Calculator/line.png
+xDerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/line.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/line.png141"CpResource Average\ Calculator/line.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/line.png14b065bedf68b841^d2e175bedf68b841^---0#0#1#-19%DVTDocumentLocation2@181"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/DerivedData/Average%20Calculator/Build/Products/Debug-iphonesimulator/Average%20Calculator.app/line.png003478a0ddffdf42^785"CpResource Average\ Calculator/line.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/line.png    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/line.png /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app36"4608E0B1-572D-40CC-B6AB-0386376ECC49-
+b16DC409B-C05D-413F-A0A0-3D3725C4988A
+
+CCpResource Average\ Calculator/logo.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/logo.png
+s409263725.705362
+e409263725.706218
+r1
+xCpResource
+xAverage Calculator/logo.png
+xDerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/logo.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Copy DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/logo.png141"CpResource Average\ Calculator/logo.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/logo.pngba9eb46dde64b841^f0a3de6dde64b841^---0#0#1#-19%DVTDocumentLocation2@181"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/DerivedData/Average%20Calculator/Build/Products/Debug-iphonesimulator/Average%20Calculator.app/logo.png0000000000000000^785"CpResource Average\ Calculator/logo.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/logo.png    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/logo.png /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app36"B75BCFA8-7DF4-4E6F-958D-E3174805673B-
+b28D85129-F5F0-45B0-A021-95DE12F38E8B
+
+CCpResource Average\ Calculator/onstudynotes.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/onstudynotes.png
+r0
+
+CCpResource Average\ Calculator/onstudynotes@2x.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/onstudynotes@2x.png
+r0
+
+CCpResource Average\ Calculator/splasher.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/splasher.png
+s409524491.166333
+e409524491.167891
+r1
+xCpResource
+xAverage Calculator/splasher.png
+xDerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/splasher.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/splasher.png149"CpResource Average\ Calculator/splasher.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/splasher.png29ae2a0bd968b841^d13d2b0bd968b841^---0#0#1#-19%DVTDocumentLocation2@185"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/DerivedData/Average%20Calculator/Build/Products/Debug-iphonesimulator/Average%20Calculator.app/splasher.png003478a0ddffdf42^797"CpResource Average\ Calculator/splasher.png DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/splasher.png    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/splasher.png /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app36"71411B2B-E374-4D31-BD7B-24A0A5F0F7FB-
+bE05552A1-0C6A-4E35-A970-273BB907A0EA
+
+CGenerateDSYMFile /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app.dSYM /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Average\ Calculator
+s409525558.178382
+e409525558.215626
+r1
+xGenerateDSYMFile
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app.dSYM
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Average Calculator
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Generate /Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app.dSYM227"GenerateDSYMFile DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app.dSYM DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Average\ Calculator80b62d36dd68b841^1e343736dd68b841^---0#0#1#-19%DVTDocumentLocation2@178"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/DerivedData/Average%20Calculator/Build/Products/Debug-iphonesimulator/Average%20Calculator.app.dSYM/0000000000000000^951"GenerateDSYMFile DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app.dSYM DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Average\ Calculator    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Average\ Calculator -o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app.dSYM36"4414D845-7638-4DA8-83AD-2993B157C2A9-
+b3B5B3AA2-FB62-4B46-AA65-E4B0DFC48749
+
+CLd /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Average\ Calculator normal i386
+s409525557.638421
+e409525557.746250
+r1
+xLd
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Average Calculator
+xnormal
+xi386
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/Average Calculator.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/SecondViewController.o
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/AppDelegate.o
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/FirstViewController.o
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/MainViewController.o
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/Average Calculator.build/Debug-iphonesimulator/Average Calculator.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection181"Link /Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Average Calculator127"Ld DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Average\ Calculator normal i3868884a335dd68b841^910abf35dd68b841^---0#0#1#--1881"Ld DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Average\ Calculator normal i386    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator -F/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator -filelist /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/Average\ Calculator.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Objects-normal/i386/Average\ Calculator_dependency_info.dat -o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Average\ Calculator36"FB9C8C97-4F26-44F7-8A40-F9D12FD73F5C-
+b3B5B3AA2-FB62-4B46-AA65-E4B0DFC48749
+
+CProcessInfoPlistFile /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Info.plist /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Average\ Calculator-Info.plist
+s409154673.255281
+e409154673.256911
+r1
+xProcessInfoPlistFile
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app/Info.plist
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Average Calculator-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Process /Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Average Calculator-Info.plist175"ProcessInfoPlistFile DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Info.plist Average\ Calculator/Average\ Calculator-Info.plist2b6941713463b841^61c541713463b841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/Average%20Calculator/Average%20Calculator-Info.plist0000000000000000^1268"ProcessInfoPlistFile DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Info.plist Average\ Calculator/Average\ Calculator-Info.plist    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Average\ Calculator-Info.plist -genpkginfo /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/assetcatalog_generated_info.plist -o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app/Info.plist36"78F536E8-9564-41DF-86F5-A1415007A3FD-
+bC128F2EA-A203-415A-BFFE-2147954F90EB
+
+CProcessPCH /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/PrecompiledHeaders/Average\ Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average\ Calculator-Prefix.pch.pch Average\ Calculator/Average\ Calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s409154669.525024
+e409154670.747560
+r1
+xProcessPCH
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Intermediates/PrecompiledHeaders/Average Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average Calculator-Prefix.pch.pch
+xAverage Calculator/Average Calculator-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/Average Calculator/Average Calculator-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile Average Calculator/Average Calculator-Prefix.pch291"ProcessPCH DerivedData/Average\ Calculator/Build/Intermediates/PrecompiledHeaders/Average\ Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average\ Calculator-Prefix.pch.pch Average\ Calculator/Average\ Calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerae9f866d3463b841^3062bf6e3463b841^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Alex/Dropbox/onstudynotes/onstudynotes%208/Average%20Calculator/Average%20Calculator/Average%20Calculator-Prefix.pch0000000000000000^4654"ProcessPCH DerivedData/Average\ Calculator/Build/Intermediates/PrecompiledHeaders/Average\ Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average\ Calculator-Prefix.pch.pch Average\ Calculator/Average\ Calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-generated-files.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-own-target-headers.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-all-target-headers.hmap -iquote /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/Average\ Calculator-project-headers.hmap -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/DerivedSources/i386 -I/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/Average\ Calculator.build/Debug-iphonesimulator/Average\ Calculator.build/DerivedSources -F/Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/PrecompiledHeaders/Average\ Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average\ Calculator-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/PrecompiledHeaders/Average\ Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average\ Calculator-Prefix.pch.d -c /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/Average\ Calculator/Average\ Calculator-Prefix.pch -o /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Intermediates/PrecompiledHeaders/Average\ Calculator-Prefix-eobyasqimjalcbadpxwsxolajavr/Average\ Calculator-Prefix.pch.pch36"F7913F08-EA5D-4DF5-84E8-EEBCB83D9F78-
+bC128F2EA-A203-415A-BFFE-2147954F90EB
+
+CProcessPCH /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Index/PrecompiledHeaders/Average\ Calculator-Prefix-cybddaafzadunfbfxxkrapinxglv_ast/Average\ Calculator-Prefix.pch.pch Average\ Calculator/Average\ Calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app
+s409526595.769353
+e409526595.772639
+r1
+xTouch
+x/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Touch /Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/Average Calculator/Build/Products/Debug-iphonesimulator/Average Calculator.app98"Touch DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app6000c543e168b841^81cdc543e168b841^---0#0#1#--554"Touch DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app    cd "/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Alex/Dropbox/onstudynotes/onstudynotes\ 8/Average\ Calculator/DerivedData/Average\ Calculator/Build/Products/Debug-iphonesimulator/Average\ Calculator.app36"F5FF19B8-CDBA-4E04-A41A-718A0AA9F0CA-
+b3517A6D1-21A7-4609-B117-43A73C8E4D72
+

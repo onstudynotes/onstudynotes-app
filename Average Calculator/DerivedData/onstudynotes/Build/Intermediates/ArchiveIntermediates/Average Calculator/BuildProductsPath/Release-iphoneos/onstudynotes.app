@@ -1,0 +1,1 @@
+/Users/Alex/Dropbox/onstudynotes/onstudynotes 8/Average Calculator/DerivedData/onstudynotes/Build/Intermediates/ArchiveIntermediates/Average Calculator/InstallationBuildProductsLocation/Applications/onstudynotes.app

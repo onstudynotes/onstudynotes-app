@@ -1,0 +1,656 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FA14789718723C77004C0FF3 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA14789618723C77004C0FF3 /* icon@2x.png */; };
+		FA14789918723D12004C0FF3 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA14789818723D12004C0FF3 /* Default-568h@2x.png */; };
+		FA263D7C1868CC06006562B8 /* Calculator.png in Resources */ = {isa = PBXBuildFile; fileRef = FA263D781868CC06006562B8 /* Calculator.png */; };
+		FA263D7D1868CC06006562B8 /* Calculator@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA263D791868CC06006562B8 /* Calculator@2x.png */; };
+		FA263D7E1868CC06006562B8 /* Chart_Up@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA263D7A1868CC06006562B8 /* Chart_Up@2x.png */; };
+		FA263D7F1868CC06006562B8 /* ChartUp.png in Resources */ = {isa = PBXBuildFile; fileRef = FA263D7B1868CC06006562B8 /* ChartUp.png */; };
+		FA263D8A1868D218006562B8 /* Onstudynotes.png in Resources */ = {isa = PBXBuildFile; fileRef = FA263D881868D218006562B8 /* Onstudynotes.png */; };
+		FA263D8B1868D218006562B8 /* Onstudynotes@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA263D891868D218006562B8 /* Onstudynotes@2x.png */; };
+		FA5028441864DE5E00382F7C /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = FA5028431864DE5E00382F7C /* logo.png */; };
+		FA567096186333DE0097082F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA567095186333DE0097082F /* Foundation.framework */; };
+		FA567098186333DE0097082F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA567097186333DE0097082F /* CoreGraphics.framework */; };
+		FA56709A186333DE0097082F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA567099186333DE0097082F /* UIKit.framework */; };
+		FA5670A0186333DE0097082F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FA56709E186333DE0097082F /* InfoPlist.strings */; };
+		FA5670A2186333DE0097082F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5670A1186333DE0097082F /* main.m */; };
+		FA5670A6186333DE0097082F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5670A5186333DE0097082F /* AppDelegate.m */; };
+		FA5670A9186333DE0097082F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA5670A7186333DE0097082F /* Main.storyboard */; };
+		FA5670AC186333DE0097082F /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5670AB186333DE0097082F /* FirstViewController.m */; };
+		FA5670AF186333DE0097082F /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5670AE186333DE0097082F /* SecondViewController.m */; };
+		FA5670B1186333DE0097082F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA5670B0186333DE0097082F /* Images.xcassets */; };
+		FA5670B8186333DE0097082F /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA5670B7186333DE0097082F /* XCTest.framework */; };
+		FA5670B9186333DE0097082F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA567095186333DE0097082F /* Foundation.framework */; };
+		FA5670BA186333DE0097082F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA567099186333DE0097082F /* UIKit.framework */; };
+		FA5670C2186333DE0097082F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FA5670C0186333DE0097082F /* InfoPlist.strings */; };
+		FA5670C4186333DE0097082F /* Average_CalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5670C3186333DE0097082F /* Average_CalculatorTests.m */; };
+		FAAAC0C11868D532004DB195 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAAAC0C01868D532004DB195 /* MainViewController.m */; };
+		FAAAC0C51868D887004DB195 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAAC0C21868D887004DB195 /* icon.png */; };
+		FAAAC0C61868D887004DB195 /* icon-200.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAAC0C31868D887004DB195 /* icon-200.png */; };
+		FAAAC0C71868D887004DB195 /* splasher.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAAC0C41868D887004DB195 /* splasher.png */; };
+		FAAAC0C91868DEC2004DB195 /* line.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAAC0C81868DEC2004DB195 /* line.png */; };
+		FAAAC0D21868E3DB004DB195 /* logolarge@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAAC0D01868E3DB004DB195 /* logolarge@2x.png */; };
+		FAAAC0D31868E3DB004DB195 /* logoLarge.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAAC0D11868E3DB004DB195 /* logoLarge.png */; };
+		FAAAC0D91868F047004DB195 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAAAC0D81868F047004DB195 /* Images.xcassets */; };
+		FAAAC0DC1868F152004DB195 /* Default4S@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAAC0DA1868F152004DB195 /* Default4S@2x.png */; };
+		FAAAC0DD1868F152004DB195 /* Default4S.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAAC0DB1868F152004DB195 /* Default4S.png */; };
+		FAAAC0E01868F182004DB195 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAAC0DE1868F182004DB195 /* Default@2x.png */; };
+		FAAAC0E11868F182004DB195 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAAC0DF1868F182004DB195 /* Default.png */; };
+		FAAAC0E31868F1F6004DB195 /* Default–568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAAC0E21868F1F6004DB195 /* Default–568h@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FA5670BB186333DE0097082F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FA56708A186333DE0097082F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FA567091186333DE0097082F;
+			remoteInfo = "Average Calculator";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FA14789618723C77004C0FF3 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon@2x.png"; sourceTree = "<group>"; };
+		FA14789818723D12004C0FF3 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		FA263D781868CC06006562B8 /* Calculator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calculator.png; sourceTree = "<group>"; };
+		FA263D791868CC06006562B8 /* Calculator@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Calculator@2x.png"; sourceTree = "<group>"; };
+		FA263D7A1868CC06006562B8 /* Chart_Up@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Chart_Up@2x.png"; sourceTree = "<group>"; };
+		FA263D7B1868CC06006562B8 /* ChartUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChartUp.png; sourceTree = "<group>"; };
+		FA263D881868D218006562B8 /* Onstudynotes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Onstudynotes.png; sourceTree = "<group>"; };
+		FA263D891868D218006562B8 /* Onstudynotes@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Onstudynotes@2x.png"; sourceTree = "<group>"; };
+		FA5028431864DE5E00382F7C /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		FA567092186333DE0097082F /* onstudynotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = onstudynotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA567095186333DE0097082F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		FA567097186333DE0097082F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		FA567099186333DE0097082F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		FA56709D186333DE0097082F /* onstudynotes-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "onstudynotes-Info.plist"; sourceTree = "<group>"; };
+		FA56709F186333DE0097082F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FA5670A1186333DE0097082F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FA5670A3186333DE0097082F /* onstudynotes-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "onstudynotes-Prefix.pch"; sourceTree = "<group>"; };
+		FA5670A4186333DE0097082F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FA5670A5186333DE0097082F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FA5670A8186333DE0097082F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FA5670AA186333DE0097082F /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		FA5670AB186333DE0097082F /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		FA5670AD186333DE0097082F /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		FA5670AE186333DE0097082F /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		FA5670B0186333DE0097082F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		FA5670B6186333DE0097082F /* onstudynotesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = onstudynotesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA5670B7186333DE0097082F /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		FA5670BF186333DE0097082F /* onstudynotesTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "onstudynotesTests-Info.plist"; sourceTree = "<group>"; };
+		FA5670C1186333DE0097082F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FA5670C3186333DE0097082F /* Average_CalculatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Average_CalculatorTests.m; sourceTree = "<group>"; };
+		FAAAC0BF1868D532004DB195 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		FAAAC0C01868D532004DB195 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		FAAAC0C21868D887004DB195 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		FAAAC0C31868D887004DB195 /* icon-200.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-200.png"; sourceTree = "<group>"; };
+		FAAAC0C41868D887004DB195 /* splasher.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splasher.png; sourceTree = "<group>"; };
+		FAAAC0C81868DEC2004DB195 /* line.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = line.png; sourceTree = "<group>"; };
+		FAAAC0D01868E3DB004DB195 /* logolarge@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "logolarge@2x.png"; sourceTree = "<group>"; };
+		FAAAC0D11868E3DB004DB195 /* logoLarge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logoLarge.png; sourceTree = "<group>"; };
+		FAAAC0D81868F047004DB195 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = onstudynotes/Images.xcassets; sourceTree = "<group>"; };
+		FAAAC0DA1868F152004DB195 /* Default4S@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default4S@2x.png"; sourceTree = "<group>"; };
+		FAAAC0DB1868F152004DB195 /* Default4S.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default4S.png; sourceTree = "<group>"; };
+		FAAAC0DE1868F182004DB195 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		FAAAC0DF1868F182004DB195 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		FAAAC0E21868F1F6004DB195 /* Default–568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default–568h@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FA56708F186333DE0097082F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA567098186333DE0097082F /* CoreGraphics.framework in Frameworks */,
+				FA56709A186333DE0097082F /* UIKit.framework in Frameworks */,
+				FA567096186333DE0097082F /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA5670B3186333DE0097082F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA5670B8186333DE0097082F /* XCTest.framework in Frameworks */,
+				FA5670BA186333DE0097082F /* UIKit.framework in Frameworks */,
+				FA5670B9186333DE0097082F /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FA567089186333DE0097082F = {
+			isa = PBXGroup;
+			children = (
+				FA14789818723D12004C0FF3 /* Default-568h@2x.png */,
+				FAAAC0D81868F047004DB195 /* Images.xcassets */,
+				FA56709B186333DE0097082F /* Average Calculator */,
+				FA5670BD186333DE0097082F /* Average CalculatorTests */,
+				FA567094186333DE0097082F /* Frameworks */,
+				FA567093186333DE0097082F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FA567093186333DE0097082F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FA567092186333DE0097082F /* onstudynotes.app */,
+				FA5670B6186333DE0097082F /* onstudynotesTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA567094186333DE0097082F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FA567095186333DE0097082F /* Foundation.framework */,
+				FA567097186333DE0097082F /* CoreGraphics.framework */,
+				FA567099186333DE0097082F /* UIKit.framework */,
+				FA5670B7186333DE0097082F /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FA56709B186333DE0097082F /* Average Calculator */ = {
+			isa = PBXGroup;
+			children = (
+				FA5670A4186333DE0097082F /* AppDelegate.h */,
+				FA5670A5186333DE0097082F /* AppDelegate.m */,
+				FA5670A7186333DE0097082F /* Main.storyboard */,
+				FAAAC0BF1868D532004DB195 /* MainViewController.h */,
+				FAAAC0C01868D532004DB195 /* MainViewController.m */,
+				FA5670AA186333DE0097082F /* FirstViewController.h */,
+				FA5670AB186333DE0097082F /* FirstViewController.m */,
+				FA5670AD186333DE0097082F /* SecondViewController.h */,
+				FA5670AE186333DE0097082F /* SecondViewController.m */,
+				FA5670B0186333DE0097082F /* Images.xcassets */,
+				FA56709C186333DE0097082F /* Supporting Files */,
+			);
+			path = "Average Calculator";
+			sourceTree = "<group>";
+		};
+		FA56709C186333DE0097082F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FA56709D186333DE0097082F /* onstudynotes-Info.plist */,
+				FA263D781868CC06006562B8 /* Calculator.png */,
+				FA263D791868CC06006562B8 /* Calculator@2x.png */,
+				FA263D7A1868CC06006562B8 /* Chart_Up@2x.png */,
+				FAAAC0DE1868F182004DB195 /* Default@2x.png */,
+				FAAAC0DF1868F182004DB195 /* Default.png */,
+				FA263D7B1868CC06006562B8 /* ChartUp.png */,
+				FA263D881868D218006562B8 /* Onstudynotes.png */,
+				FAAAC0E21868F1F6004DB195 /* Default–568h@2x.png */,
+				FA263D891868D218006562B8 /* Onstudynotes@2x.png */,
+				FAAAC0D01868E3DB004DB195 /* logolarge@2x.png */,
+				FAAAC0DA1868F152004DB195 /* Default4S@2x.png */,
+				FAAAC0DB1868F152004DB195 /* Default4S.png */,
+				FAAAC0D11868E3DB004DB195 /* logoLarge.png */,
+				FAAAC0C81868DEC2004DB195 /* line.png */,
+				FAAAC0C21868D887004DB195 /* icon.png */,
+				FA14789618723C77004C0FF3 /* icon@2x.png */,
+				FAAAC0C31868D887004DB195 /* icon-200.png */,
+				FAAAC0C41868D887004DB195 /* splasher.png */,
+				FA56709E186333DE0097082F /* InfoPlist.strings */,
+				FA5670A1186333DE0097082F /* main.m */,
+				FA5028431864DE5E00382F7C /* logo.png */,
+				FA5670A3186333DE0097082F /* onstudynotes-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FA5670BD186333DE0097082F /* Average CalculatorTests */ = {
+			isa = PBXGroup;
+			children = (
+				FA5670C3186333DE0097082F /* Average_CalculatorTests.m */,
+				FA5670BE186333DE0097082F /* Supporting Files */,
+			);
+			path = "Average CalculatorTests";
+			sourceTree = "<group>";
+		};
+		FA5670BE186333DE0097082F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FA5670BF186333DE0097082F /* onstudynotesTests-Info.plist */,
+				FA5670C0186333DE0097082F /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FA567091186333DE0097082F /* onstudynotes */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA5670C7186333DE0097082F /* Build configuration list for PBXNativeTarget "onstudynotes" */;
+			buildPhases = (
+				FA56708E186333DE0097082F /* Sources */,
+				FA56708F186333DE0097082F /* Frameworks */,
+				FA567090186333DE0097082F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = onstudynotes;
+			productName = "Average Calculator";
+			productReference = FA567092186333DE0097082F /* onstudynotes.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FA5670B5186333DE0097082F /* onstudynotesTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA5670CA186333DE0097082F /* Build configuration list for PBXNativeTarget "onstudynotesTests" */;
+			buildPhases = (
+				FA5670B2186333DE0097082F /* Sources */,
+				FA5670B3186333DE0097082F /* Frameworks */,
+				FA5670B4186333DE0097082F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FA5670BC186333DE0097082F /* PBXTargetDependency */,
+			);
+			name = onstudynotesTests;
+			productName = "Average CalculatorTests";
+			productReference = FA5670B6186333DE0097082F /* onstudynotesTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FA56708A186333DE0097082F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = com.onstudynotes;
+				TargetAttributes = {
+					FA567091186333DE0097082F = {
+						DevelopmentTeam = 49XYF5CDK6;
+					};
+					FA5670B5186333DE0097082F = {
+						TestTargetID = FA567091186333DE0097082F;
+					};
+				};
+			};
+			buildConfigurationList = FA56708D186333DE0097082F /* Build configuration list for PBXProject "onstudynotes" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FA567089186333DE0097082F;
+			productRefGroup = FA567093186333DE0097082F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FA567091186333DE0097082F /* onstudynotes */,
+				FA5670B5186333DE0097082F /* onstudynotesTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FA567090186333DE0097082F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA5028441864DE5E00382F7C /* logo.png in Resources */,
+				FAAAC0C91868DEC2004DB195 /* line.png in Resources */,
+				FA5670B1186333DE0097082F /* Images.xcassets in Resources */,
+				FAAAC0D31868E3DB004DB195 /* logoLarge.png in Resources */,
+				FAAAC0E11868F182004DB195 /* Default.png in Resources */,
+				FA14789918723D12004C0FF3 /* Default-568h@2x.png in Resources */,
+				FAAAC0D21868E3DB004DB195 /* logolarge@2x.png in Resources */,
+				FA263D7D1868CC06006562B8 /* Calculator@2x.png in Resources */,
+				FA5670A0186333DE0097082F /* InfoPlist.strings in Resources */,
+				FA263D7C1868CC06006562B8 /* Calculator.png in Resources */,
+				FAAAC0C71868D887004DB195 /* splasher.png in Resources */,
+				FAAAC0C61868D887004DB195 /* icon-200.png in Resources */,
+				FA263D7F1868CC06006562B8 /* ChartUp.png in Resources */,
+				FAAAC0DD1868F152004DB195 /* Default4S.png in Resources */,
+				FAAAC0E01868F182004DB195 /* Default@2x.png in Resources */,
+				FAAAC0DC1868F152004DB195 /* Default4S@2x.png in Resources */,
+				FAAAC0C51868D887004DB195 /* icon.png in Resources */,
+				FA263D8A1868D218006562B8 /* Onstudynotes.png in Resources */,
+				FAAAC0E31868F1F6004DB195 /* Default–568h@2x.png in Resources */,
+				FA14789718723C77004C0FF3 /* icon@2x.png in Resources */,
+				FAAAC0D91868F047004DB195 /* Images.xcassets in Resources */,
+				FA5670A9186333DE0097082F /* Main.storyboard in Resources */,
+				FA263D7E1868CC06006562B8 /* Chart_Up@2x.png in Resources */,
+				FA263D8B1868D218006562B8 /* Onstudynotes@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA5670B4186333DE0097082F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA5670C2186333DE0097082F /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FA56708E186333DE0097082F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA5670AF186333DE0097082F /* SecondViewController.m in Sources */,
+				FA5670A6186333DE0097082F /* AppDelegate.m in Sources */,
+				FA5670AC186333DE0097082F /* FirstViewController.m in Sources */,
+				FAAAC0C11868D532004DB195 /* MainViewController.m in Sources */,
+				FA5670A2186333DE0097082F /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA5670B2186333DE0097082F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA5670C4186333DE0097082F /* Average_CalculatorTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FA5670BC186333DE0097082F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FA567091186333DE0097082F /* onstudynotes */;
+			targetProxy = FA5670BB186333DE0097082F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		FA56709E186333DE0097082F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FA56709F186333DE0097082F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		FA5670A7186333DE0097082F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FA5670A8186333DE0097082F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FA5670C0186333DE0097082F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FA5670C1186333DE0097082F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FA147893187235C4004C0FF3 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Alex  Lee (49XYF5CDK6)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Distribution;
+		};
+		FA147894187235C4004C0FF3 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Alex  Lee (49XYF5CDK6)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Alex  Lee (49XYF5CDK6)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Average Calculator/onstudynotes-Prefix.pch";
+				INFOPLIST_FILE = "Average Calculator/onstudynotes-Info.plist";
+				PRODUCT_NAME = onstudynotes;
+				PROVISIONING_PROFILE = "CEE8C8D0-BDA1-4312-A212-134394ECFE9F";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Distribution;
+		};
+		FA147895187235C4004C0FF3 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Average Calculator.app/Average Calculator";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Average Calculator/Average Calculator-Prefix.pch";
+				INFOPLIST_FILE = "Average CalculatorTests/onstudynotesTests-Info.plist";
+				PRODUCT_NAME = onstudynotesTests;
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Distribution;
+		};
+		FA5670C5186333DE0097082F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Alex  Lee (49XYF5CDK6)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Debug;
+		};
+		FA5670C6186333DE0097082F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Alex  Lee (49XYF5CDK6)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FA5670C8186333DE0097082F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Alex  Lee (49XYF5CDK6)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Alex  Lee (49XYF5CDK6)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Average Calculator/onstudynotes-Prefix.pch";
+				INFOPLIST_FILE = "Average Calculator/onstudynotes-Info.plist";
+				PRODUCT_NAME = onstudynotes;
+				PROVISIONING_PROFILE = "CEE8C8D0-BDA1-4312-A212-134394ECFE9F";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		FA5670C9186333DE0097082F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Alex  Lee (49XYF5CDK6)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Alex  Lee (49XYF5CDK6)";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Average Calculator/onstudynotes-Prefix.pch";
+				INFOPLIST_FILE = "Average Calculator/onstudynotes-Info.plist";
+				PRODUCT_NAME = onstudynotes;
+				PROVISIONING_PROFILE = "CEE8C8D0-BDA1-4312-A212-134394ECFE9F";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		FA5670CB186333DE0097082F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Average Calculator.app/Average Calculator";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Average Calculator/Average Calculator-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Average CalculatorTests/onstudynotesTests-Info.plist";
+				PRODUCT_NAME = onstudynotesTests;
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		FA5670CC186333DE0097082F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Average Calculator.app/Average Calculator";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Average Calculator/Average Calculator-Prefix.pch";
+				INFOPLIST_FILE = "Average CalculatorTests/onstudynotesTests-Info.plist";
+				PRODUCT_NAME = onstudynotesTests;
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FA56708D186333DE0097082F /* Build configuration list for PBXProject "onstudynotes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA5670C5186333DE0097082F /* Debug */,
+				FA5670C6186333DE0097082F /* Release */,
+				FA147893187235C4004C0FF3 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FA5670C7186333DE0097082F /* Build configuration list for PBXNativeTarget "onstudynotes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA5670C8186333DE0097082F /* Debug */,
+				FA5670C9186333DE0097082F /* Release */,
+				FA147894187235C4004C0FF3 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FA5670CA186333DE0097082F /* Build configuration list for PBXNativeTarget "onstudynotesTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA5670CB186333DE0097082F /* Debug */,
+				FA5670CC186333DE0097082F /* Release */,
+				FA147895187235C4004C0FF3 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FA56708A186333DE0097082F /* Project object */;
+}
